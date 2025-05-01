@@ -5,10 +5,8 @@
 [![Language](https://img.shields.io/badge/Language-HTML/CSS-orange)](https://example.com)  
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://example.com)  
 [![Version](https://img.shields.io/badge/Version-1.0-blue)](https://example.com)  
-[![Language](https://img.shields.io/github/languages/top/aayush61203/pizza-restaurant-website)](https://github.com/aayush61203/pizza-restaurant-website)  
-[![Language Count](https://img.shields.io/github/languages/count/aayush61203/pizza-restaurant-website)](https://github.com/aayush61203/pizza-restaurant-website)  
-![Language](https://img.shields.io/github/languages/top/aayush61203/pizza-restaurant-website)
-![Language](https://img.shields.io/github/languages/count/aayush61203/pizza-restaurant-website)
+[![Language](https://img.shields.io/github/languages/top/aayush61203/Pizza-Restaurant-Website-html)](https://github.com/aayush61203/Pizza-Restaurant-Website-html)  
+[![Language Count](https://img.shields.io/github/languages/count/aayush61203/Pizza-Restaurant-Website-html)](https://github.com/aayush61203/Pizza-Restaurant-Website-html)  
 
 Welcome to the **Pizza Restaurant Website** project! This website is designed for showcasing your pizza restaurant online with a responsive design, user-friendly forms, and integration with **Google Maps** for location. It includes multiple pages like **Home**, **Contact**, **Blog**, **Franchise**, **Store**, and **Suggestions**.
 
@@ -43,7 +41,7 @@ Welcome to the **Pizza Restaurant Website** project! This website is designed fo
 ### **For Developers:**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/aayush61203/pizza-restaurant-website.git
+   git clone https://github.com/aayush61203/Pizza-Restaurant-Website-html.git
    ```
 2. Open the project folder:
    ```bash
