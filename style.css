@@ -1,0 +1,115 @@
+.link a:link
+{	background-color:lightgrey;
+	border:3px solid black;
+	border-radius:35px;
+	font-size:25px;
+	padding-right:10px;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	text-decoration:none;
+}
+ .link1 a:hover
+{	color:red;
+	background-color:yellow;
+	font-size:35px;
+}
+.linkf a:hover
+{	color:red;
+	background-color:yellow;
+}
+.linkst a:hover
+{
+	font-size:5000px;
+}
+body
+{
+	background-image:linear-gradient(white,#545454)
+}
+.header
+{
+	background-image:linear-gradient(to right,lightblue,pink);
+}
+.footer{
+		height: 400px;
+		width: 100%;
+		background-image:linear-gradient(red,black);
+}
+.ffcolor
+{
+	color:yellow
+}
+.ffcolor1
+{
+	color:white;
+	
+}
+.liwrap
+{	width: 250px; 
+   word-wrap: break-word;
+}
+.store
+{	color:green;
+	border:2px solid black;
+	border-radius:35px;
+	font-size:20px;
+	padding-right:10px;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	text-decoration:none;
+	margin-left:2px
+}
+.franchise
+{
+	font-size:30px;
+	width: 500px; 
+	word-wrap: break-word;
+}
+.phome
+{
+	margin-left:10px;
+	margin-right:10px;
+	font-size:20px;
+}
+.sugfont
+{
+	font-size:25px
+}
+.conicon
+{	
+	height:40px;
+	width:40px;
+	padding:5px;
+	border:08px ridge white;
+	border-radius:50px;
+	transition: width 0.5s, height 0.5s;
+}
+.conicon:hover
+{
+	height:80px;
+	width:80px;
+}
+.img
+{
+	height:80px;
+	width:80px;
+	transition: width 0.5s, height 0.5s;
+}
+.img:hover 
+{
+	height:120px;
+	width:110px;
+	tooltip:hg
+}
+.tfont
+{
+	font-weight:700;
+	color:#228B22;
+	
+}
+.tabsty
+{
+	text-align:center;
+	
+}
