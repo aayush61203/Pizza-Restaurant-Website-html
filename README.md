@@ -64,8 +64,6 @@ pizza-restaurant-website/
 └── README.md       # This file
 ```
 
-## License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 📧 **Email:** [contactaayushshah@gmail.com](mailto:contactaayushshah@gmail.com)
